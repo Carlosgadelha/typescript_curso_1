@@ -1,1 +1,3 @@
-# typescript_curso_1
+# TypeScript parte 1: Evoluindo seu JavaScript ALURA
+
+
